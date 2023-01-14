@@ -9,7 +9,7 @@ function App() {
      <Titulo/>
      <Subtitulo/>
      <Lista/>
-     </div>
+    </div>
   );
 }
 
